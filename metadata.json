@@ -1,0 +1,6 @@
+{
+  "name": "Dizi Art",
+  "description": "A premium, fully responsive e-commerce web platform for curating and claiming luxury digital art and NFT tokens, built with React and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
